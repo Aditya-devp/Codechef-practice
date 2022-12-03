@@ -1,3 +1,5 @@
+// Solution for the coldplay question on codechef 
+
 #include <iostream>
 using namespace std;
 
