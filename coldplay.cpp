@@ -5,8 +5,8 @@ using namespace std;
 
 int main() {
 	int test,min,song,ans;
-	cin>>test;
-	while(test--){
+	cin>>t;
+	while(t--){
 	    cin>>min>>song;
 	    ans=min/song;
 	    cout<<ans<<endl;
